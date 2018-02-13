@@ -11,7 +11,7 @@ import java.util.Scanner;
  * 
  * This is the section for the full AVL tree 
  * 
- * In brief, it adds operations not used by Huffman encoding to the general tree. Please refer to pdf for exhaustif description. 
+ * In brief, it adds extra operation to the general tree to make it more complete such as find(), postoder(), remove(). Please refer to pdf for exhaustif description. 
  * 
  *################################################
  */
